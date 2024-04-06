@@ -1,4 +1,4 @@
-ipywidgets
+ipywidgets == 8.0.2
 notebook
 ensure
 py-youtube
@@ -10,3 +10,4 @@ tox
 black
 flake8
 mypy
+-e .

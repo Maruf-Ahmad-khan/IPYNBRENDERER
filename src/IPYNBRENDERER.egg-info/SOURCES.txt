@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/IPYNBRENDERER/__init__.py
+src/IPYNBRENDERER.egg-info/PKG-INFO
+src/IPYNBRENDERER.egg-info/SOURCES.txt
+src/IPYNBRENDERER.egg-info/dependency_links.txt
+src/IPYNBRENDERER.egg-info/requires.txt
+src/IPYNBRENDERER.egg-info/top_level.txt
+src/IPYRENDERER/__init__.py
